@@ -1,0 +1,9 @@
+def food_Choice(food="Veg"):
+    return food
+def drink_choice(juice="Orange Juice"):
+    return juice
+    
+choice_1=input("What food would you like veg or non veg? : ")
+choice_2=input("What drink would you like? : ")
+
+print("You have selected {} as food preference and {} as your drink!".format(food_Choice(choice_1),drink_choice(choice_2)))

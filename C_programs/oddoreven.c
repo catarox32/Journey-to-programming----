@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 int main()
-{
-    int x;
+{5
+    int x = 0;
     printf("Input a number : \n" );
     scanf("%d" , &x);
     int new = x;

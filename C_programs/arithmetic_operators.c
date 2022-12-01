@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-int main()
+int main()        
 {
     int x = 0 , y = 0 , opred = 0; 
     char opr;
