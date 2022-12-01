@@ -13,3 +13,8 @@ def load_data():
 def save_data(godown):
 	with open(os.path.join(base_path, "to_app.json")) as f:
 		json.dump(godown, f)
+
+		
+def ass():
+	printf("ass")
+	printf("ass again")
