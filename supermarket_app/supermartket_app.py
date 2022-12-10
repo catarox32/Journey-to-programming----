@@ -2,7 +2,7 @@ import os
 
 from utils import load_data, save_data
 
-store_name = "SuperMarket"
+store_name = "Bill_Making"
 godown = load_data()
 
 
